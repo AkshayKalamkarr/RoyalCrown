@@ -35,6 +35,7 @@ function NavbarComponent({ className }: { className?: string }) {
                     <div className="flex flex-col space-y-4 text-sm">
                         <HoveredLink href="/ongoingprojects">Image</HoveredLink>
                         <HoveredLink href="/completedprojects">Video</HoveredLink>
+                        <HoveredLink href="/completedprojects">Video</HoveredLink>
                     </div>
                 </MenuItem>
             </Menu>
